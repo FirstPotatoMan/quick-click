@@ -1,6 +1,6 @@
-# Chrome Extension (built with TypeScript + React)
+# Quick Click (built with TypeScript + React)
 
-> This project is a boilerplate project to allow you to quickly build chrome extensions using TypeScript and React.
+> This is a Clicking Game Extension, where you have to click objects that appear on the screen as fast as possible. Currently not finished. Built off of [this](https://github.com/martellaj/chrome-extension-react-typescript-boilerplate) boilerplate chrome extension.
 
 ## Building
 
