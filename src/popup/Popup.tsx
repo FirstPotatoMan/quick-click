@@ -40,7 +40,7 @@ export default class Popup extends Component {
         </section>
         <section className="footer">
           <span className="footerText">Made by a potato with a crew of monkeys</span>
-          <a className="footerLink" href="https://github.com/Team-Nope/quick-click">
+          <a className="footerLink" href="https://github.com/Team-Nope/quick-click" target="true">
             <span className="linkText">See the source code on </span>
             <GitLogo className="gitLogo"/>
           </a>
